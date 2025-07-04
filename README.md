@@ -12,3 +12,6 @@
 <!-- <img align="left" height="150" src="https://media1.tenor.com/m/1O4WBQT5zeUAAAAC/bocchi-the-rock-ryo-yamada.gif"/> -->
 
 ###
+
+<h3 align="left"><b>Leetcode :</b></h3> 
+<a href="https://leetcode.com/u/wyze00/"><img src="https://leetcard.jacoblin.cool/wyze00?theme=dark&font=Inter"/</a><br>
